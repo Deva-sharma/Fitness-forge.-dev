@@ -1,2 +1,2 @@
-# Fitness-forge.-dev
+# Fitness-forge-dev
 This is my first git repository. 
